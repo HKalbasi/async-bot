@@ -1,0 +1,28 @@
+{
+  "name": "async-bot",
+  "version": "0.0.1",
+  "description": "a framework for creating conversation bots via async/await",
+  "main": "index.mjs",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "espeak": "^0.0.3",
+    "matrix-bot-sdk": "^0.5.9",
+    "node-aplay": "^1.0.3",
+    "mespeak": "^2.0.2",
+    "rxjs": "^6.6.3",
+    "rxjs-for-await": "^0.0.2",
+    "rxjs-async-iterator": "^1.0.1",
+    "telegram-bot-api": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "HKalbasi",
+  "license": "Unlicense"
+}
